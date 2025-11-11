@@ -1,0 +1,27 @@
+### Title: [Bug] Short and descriptive title of the bug
+
+**Problem Description:**
+[Clearly describe the problem you're encountering. What is happening and why is it an issue?]
+
+**Steps to Reproduce:**
+1. [Step 1]
+2. [Step 2]
+3. [Step 3]
+...
+
+**Expected Behavior:**
+[Describe what you expected to happen.]
+
+**Actual Behavior:**
+[Describe what actually happened, including any error messages or unexpected outcomes.]
+
+**Context/Environment:**
+- Operating System: [e.g., macOS Ventura 13.6]
+- Browser/Application: [e.g., Chrome 118, MyAwesomeApp v1.2.3]
+- Relevant Dependencies/Configurations: [e.g., Node.js v18.17.1, specific API keys]
+
+**Screenshots/Videos (if applicable):**
+[Insert screenshots or links to videos demonstrating the issue.]
+
+**Proposed Solution (optional):**
+[If you have a suggestion for a fix or workaround, provide it here.]
